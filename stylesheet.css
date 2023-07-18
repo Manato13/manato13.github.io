@@ -1,0 +1,33 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #558bff13;
+  }
+  
+  .jumbotron {
+    background-color: #0088ff00;
+    color: #0011ff;
+  }
+  
+  h1, h2, h3 {
+    color: #000000;
+  }
+  
+  img {
+    margin-bottom: 15px;
+    border: 1px solid black; /* 画像の周りに黒い線を追加 */
+  }
+  
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  a:hover {
+    color: inherit;
+  }
+  
+  /* 作品の画像に影を追加 */
+  .row .col-sm-4 a img {
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+  }
+  
