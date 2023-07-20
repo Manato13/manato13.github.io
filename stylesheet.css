@@ -16,6 +16,18 @@ body {
     font-size: 3rem;
   }
 
+  .my-4 {
+    font-weight: bold;
+    text-decoration: underline
+  }
+
+  .display-4 {
+    font-weight: bold;
+  }
+
+  .subcategory {
+    font-weight: bold;
+  }
   
   img {
     margin-bottom: 15px;
