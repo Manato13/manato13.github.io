@@ -11,6 +11,11 @@ body {
   h1, h2, h3 {
     color: #000000;
   }
+
+  h2 {
+    font-size: 3rem;
+  }
+
   
   img {
     margin-bottom: 15px;
